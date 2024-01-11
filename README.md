@@ -48,5 +48,5 @@ Tercera sala:
 ![img](https://github.com/julio-carrasco/prototipo-interfaces/blob/main/videos/Third_room.gif)  
 Escapar:  
 ![img](https://github.com/julio-carrasco/prototipo-interfaces/blob/main/videos/Escape.gif)  
-No conseguir escapar:
+No conseguir escapar:  
 ![img](https://github.com/julio-carrasco/prototipo-interfaces/blob/main/videos/Lose_end.gif)
