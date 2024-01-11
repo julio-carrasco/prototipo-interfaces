@@ -12,6 +12,8 @@ El juego se controla completamente con la mirada, para interactuar con los puzzl
 
 No utilizamos sensores ya que no vimos una forma relevante de aplicarlos a nuestro diseño y que no consideramos necesarios incluirlos ya que controlar el juego con la mirada es suficiente.
 
+Los scripts tienen nombres descriptivos para evitar comentarios innecesarios.
+
 Respecto al trabajo en equipo, nosotros tres tenemos experiencia haciendo trabajos y proyectos juntos, y hemos realizado todo en equipo, en llamada por discord mientras que el proyecto se encontraba alojado en el ordenador de José. Hemos realizado actividades como la preparación e ideas para el prototipo, diseño de las mecánicas y objetivos del juego, creación del escenario y ambiente, implementación final del prototipo y elaboración y organización de la presentación.
 
 ### Hitos de programación logrados:  
