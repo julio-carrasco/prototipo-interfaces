@@ -39,14 +39,14 @@ Ejemplos del juego:
 - Juego completo: https://drive.google.com/file/d/1dlnHWiSBbwF8TdHvtVfhqs6ECn0K_h2p/view?usp=sharing
 
 Introducción:  
-![img](https://github.com/julio-carrasco/prototipo-interfaces/blob/main/videos/Intro.gif)  
+![img](https://github.com/julio-carrasco/prototipo-interfaces/blob/main/videos/EscenaIntro.gif)  
 Primera sala:  
-![img](https://github.com/julio-carrasco/prototipo-interfaces/blob/main/videos/First_room.gif)  
+![img](https://github.com/julio-carrasco/prototipo-interfaces/blob/main/videos/PrimeraSala.gif)  
 Segunda sala:  
-![img](https://github.com/julio-carrasco/prototipo-interfaces/blob/main/videos/Second_room.gif)  
+![img](https://github.com/julio-carrasco/prototipo-interfaces/blob/main/videos/SegundaSala.gif)  
 Tercera sala:  
-![img](https://github.com/julio-carrasco/prototipo-interfaces/blob/main/videos/Third_room.gif)  
+![img](https://github.com/julio-carrasco/prototipo-interfaces/blob/main/videos/TerceraSala.gif)  
 Escapar:  
-![img](https://github.com/julio-carrasco/prototipo-interfaces/blob/main/videos/Escape.gif)  
+![img](https://github.com/julio-carrasco/prototipo-interfaces/blob/main/videos/Escapar.gif)  
 No conseguir escapar:  
 ![img](https://github.com/julio-carrasco/prototipo-interfaces/blob/main/videos/Lose_end.gif)
