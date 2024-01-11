@@ -9,7 +9,10 @@ En el segundo puzzle debemos observar los cilindros para que roten lo suficiente
 En esta última sala veremos de nuevo 4 cajas pero de distintos colores que cambian cada vez que miramos una, para resolver este puzzle debemos recordar la secuencia de colores del primer puzzle y seleccionar las cajas en orden con los colores correctos, una vez hecho esto podremos escapar de la nave.
 
 El juego se controla completamente con la mirada, para interactuar con los puzzles es suficiente con mirarlos.  
+
 No utilizamos sensores ya que no vimos una forma relevante de aplicarlos a nuestro diseño y que no consideramos necesarios incluirlos ya que controlar el juego con la mirada es suficiente.
+
+Respecto al trabajo en equipo, nosotros tres tenemos experiencia haciendo trabajos y proyectos juntos, y hemos realizado todo en equipo, en llamada por discord mientras que el proyecto se encontraba alojado en el ordenador de José. Hemos realizado actividades como la preparación e ideas para el prototipo, diseño de las mecánicas y objetivos del juego, creación del escenario y ambiente, implementación final del prototipo y elaboración y organización de la presentación.
 
 ### Hitos de programación logrados:  
 
