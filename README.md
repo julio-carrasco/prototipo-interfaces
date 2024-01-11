@@ -7,6 +7,7 @@ En el segundo puzzle debemos observar los cilindros para que roten lo suficiente
 En esta última sala veremos de nuevo 4 cajas pero de distintos colores que cambian cada vez que miramos una, para resolver este puzzle debemos recordar la secuencia de colores del primer puzzle y seleccionar las cajas en orden con los colores correctos, una vez hecho esto podremos escapar de la nave.
 
 El juego se controla completamente con la mirada, para interactuar con los puzzles es suficiente con mirarlos.
+No utilizamos sensores ya que no vimos una forma relevante de aplicarlos a nuestro diseño y que no consideramos necesarios incluirlos ya que controlar el juego con la mirada es suficiente.
 
 Hitos de programación logrados:  
 
