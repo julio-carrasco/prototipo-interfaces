@@ -16,8 +16,8 @@ No utilizamos sensores ya que no vimos una forma relevante de aplicarlos a nuest
 - Uso de eventos para manejar las mecánicas  
 - Uso de cardboard y la retícula para el gameplay  
 - Uso de varias escenas e integración de videos
-- Uso de audio ambiental
-- Uso del text mesh pro para descripción y créditos  
+- Uso de audio ambiental  
+- Uso del canvas y el text mesh pro
 - Uso de dos directional lights para la correcta iluminacion de las habitaciones  
 
 
