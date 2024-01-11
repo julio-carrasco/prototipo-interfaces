@@ -36,7 +36,7 @@ Respecto al trabajo en equipo, nosotros tres tenemos experiencia haciendo trabaj
 
 Ejemplos del juego:  
 
-- Juego completo: https://drive.google.com/file/d/1dlnHWiSBbwF8TdHvtVfhqs6ECn0K_h2p/view?usp=sharing
+- Juego completo: https://drive.google.com/file/d/1Y7OdgE5DiE9cROnZ6625f4X5FnoWlpbL/view?usp=sharing
 
 Introducción:  
 ![img](https://github.com/julio-carrasco/prototipo-interfaces/blob/main/Videos/EscenaIntro.gif)  
