@@ -20,7 +20,7 @@ Hitos de programación logrados:
 
 Aspectos a destacar: 
 
-- Uso de una skybox que se mueve con el usuario
+- Skybox con movimiento para evitar sentir que se encuentra estática la nave
 - Assets 3d low poly
 - Compatible con la mayoría de dispositivos recientes
 - Correcto diseño de la aplicación RV teletransportando al usuario entre escenas cuando el decida y sin movimiento de la camará mas allá de la mirada para evitar la disonancia cognitiva  
