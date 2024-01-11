@@ -32,3 +32,14 @@ Respecto al trabajo en equipo, nosotros tres tenemos experiencia haciendo trabaj
 - Assets 3d low poly para un buen rendimiento en móviles a la vez que unos graficos bonitos y limpios
 - Compatible con la mayoría de dispositivos recientes
 - Correcto diseño de la aplicación RV teletransportando al usuario entre escenas cuando el decida y sin movimiento de la camará mas allá de la mirada para evitar la disonancia cognitiva  
+
+
+Ejemplos del juego:  
+
+- Juego completo: https://drive.google.com/file/d/1dlnHWiSBbwF8TdHvtVfhqs6ECn0K_h2p/view?usp=sharing
+
+Introducción: [img](https://github.com/julio-carrasco/prototipo-interfaces/blob/main/videos/Intro.gif)
+Primera sala: [img](https://github.com/julio-carrasco/prototipo-interfaces/blob/main/videos/First_room.gif)
+Segudna sala: [img](https://github.com/julio-carrasco/prototipo-interfaces/blob/main/videos/Second_room.gif)
+Tercera sala: [img](https://github.com/julio-carrasco/prototipo-interfaces/blob/main/videos/Third_room.gif)
+Escapar: [img](https://github.com/julio-carrasco/prototipo-interfaces/blob/main/videos/Escape.gif)
