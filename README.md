@@ -14,9 +14,13 @@ Hitos de programación logrados:
 - Uso de cardboard y la retícula para el gameplay  
 - Uso de varias escenas e integración de videos
 - Uso de audio ambiental
+- Uso del text mesh pro para descripción y créditos  
+- Uso de dos directional lights para la correcta iluminacion de las habitaciones  
+
+
+Aspectos a destacar: 
+
 - Uso de una skybox que se mueve con el usuario
 - Assets 3d low poly
-- Compatible con la mayoría de dispositivos recientes  
-- Uso del text mesh pro para descripción y créditos  
+- Compatible con la mayoría de dispositivos recientes
 - Correcto diseño de la aplicación RV teletransportando al usuario entre escenas cuando el decida y sin movimiento de la camará mas allá de la mirada para evitar la disonancia cognitiva  
-- Uso de dos directional lights para la correcta iluminacion de las habitaciones  
